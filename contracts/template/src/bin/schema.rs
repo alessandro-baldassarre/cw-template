@@ -1,5 +1,4 @@
 use cosmwasm_schema::write_api;
-
 use template::msg::{ExecuteMsg, InstantiateMsg, QueryMsg};
 
 fn main() {
