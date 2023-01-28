@@ -1,7 +1,6 @@
-# This template is a clone of: "https://github.com/steak-enjoyers/cw-template"
+# CosmWasm Template
 
-## CosmWasm Template
-
+This template is a clone of: "https://github.com/steak-enjoyers/cw-template"
 Template for multi-contract [CosmWasm](https://github.com/CosmWasm/cosmwasm) projects
 
 ## How to Use
